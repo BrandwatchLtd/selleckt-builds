@@ -60,6 +60,8 @@ MicroEvent.mixin = function(destObject){
     }
 };
 
+MicroEvent.mixin.blah = 'herp';
+
 module.exports = MicroEvent;
 
 },{}],3:[function(require,module,exports){
